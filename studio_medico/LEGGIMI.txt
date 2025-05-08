@@ -1,0 +1,7 @@
+MEDICO 1
+	ID: 1
+	password: porciatti
+
+MEDICO 2
+	ID: 2
+	password: porciatti
